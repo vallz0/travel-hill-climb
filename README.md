@@ -23,7 +23,7 @@ A Python application that uses the Hill Climbing algorithm to optimize flight sc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/travel-hill-climb.git
+   git clone https://github.com/vallz0/travel-hill-climb.git
    cd travel-hill-climb
    ```
 
